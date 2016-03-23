@@ -4,4 +4,4 @@ It turns out that you just need to click "new file" on the webpage, after the fo
 
 ###include a pic
 
-<img src="https://github.com/chencxiocas/Hello-world/blob/master/pics/04.1_IBM_Sep08.jpg" width="200" height="200" />
+<img src="https://github.com/chencxiocas/Hello-world/blob/master/pics/04.1_IBM_Sep08.jpg" width="400"  />
